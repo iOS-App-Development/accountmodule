@@ -1,2 +1,3 @@
-# accountmodule
-accountmodule
+# AccountModule
+
+A description of this package.
